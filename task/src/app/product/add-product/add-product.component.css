@@ -1,0 +1,16 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.formwidth {
+  width: 500px;
+  margin: auto;
+}
+
+.form-control {
+  padding: 10px;
+  width: 300px;
+  margin-top: 5px;
+}

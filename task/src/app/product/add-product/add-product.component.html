@@ -1,0 +1,18 @@
+<h3>Add Product</h3>
+
+<form class="formwidth" [formGroup]="profileForm" (ngSubmit)="onSubmit()">
+    <table class="fullwidth" cellspacing="0">
+        <input formControlName="name" class="form-control" placeholder="name placeholder" required>
+        <br>
+        <input formControlName="Quantity" type="number" class="form-control" placeholder="quantity placeholder"
+            required>
+        <br>
+        <input formControlName="price" type="number" class="form-control" class="form-control"
+            placeholder="price placeholder" required>
+        <br>
+        <input formControlName="Description" class="form-control" placeholder="description placeholder" required>
+    </table>
+    <p>
+        <button type="submit" md-raised-button>Submit</button>
+    </p>
+</form>

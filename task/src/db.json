@@ -1,0 +1,39 @@
+{
+  "locations": [
+    {
+      "id": "1",
+      "Quantity": 1,
+      "name": "Hydrogen",
+      "price": 1.0079,
+      "Description": "test1"
+    },
+    {
+      "id": "2",
+      "Quantity": 1,
+      "name": "Hydrogen",
+      "price": 1.0079,
+      "Description": "test2"
+    },
+    {
+      "id": "3",
+      "Quantity": 1,
+      "name": "Hydrogen",
+      "price": 1.0079,
+      "Description": "test3"
+    },
+    {
+      "id": "4",
+      "name": "Hydrogen",
+      "Quantity": 1,
+      "price": 1.0079,
+      "Description": "test3"
+    },
+    {
+      "id": "5",
+      "name": "Test",
+      "Quantity": 1,
+      "price": 1.0079,
+      "Description": "test3"
+    }
+  ]
+}
